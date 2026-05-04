@@ -12,7 +12,7 @@ I’m passionate about **Power & Energy Systems**, **Computer Science**, and bui
 <details>
   <summary>More about me</summary>
 
-- **Name**: Sharafuddeen  
+- **Name**: Mohammed Sharafuddeen  
 - **From**: Kerala, India 🇮🇳  
 - **Role**: EEE Student | IEEE PES Chair | Newsletter Editor  
 
