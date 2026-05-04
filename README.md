@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Sharafuddeen**, an Electrical & Electronics Engineering student ⚡ and tech enthusiast.  
+I'm **[`Mohammed Sharafuddeen`](https://linkedin.com/sharafuddeen)**, an Electrical & Electronics Engineering student ⚡ and tech enthusiast.  
 Currently serving as **Chair – IEEE PES SBC LBSCEK** and **Newsletter Editor – IEEE PES Kerala**.
 
 I’m passionate about **Power & Energy Systems**, **Computer Science**, and building impactful projects that combine technology and real-world solutions 🌱💻
